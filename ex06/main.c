@@ -5,14 +5,14 @@
 /*                                                    +:+ +:+         +:+     */
 /*   By: chpark <chpark@student.42seoul.kr>         +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2021/09/12 17:43:15 by chpark            #+#    #+#             */
-/*   Updated: 2021/09/12 17:45:42 by chpark           ###   ########.fr       */
+/*   Created: 2021/09/13 22:23:17 by chpark            #+#    #+#             */
+/*   Updated: 2021/09/13 22:27:41 by chpark           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-
-void	ft_print_comb(void);
+void ft_print_comb2(void);
 
 int	main(void)
 {
-	ft_print_comb();
+	ft_print_comb2();
+	return (0);
 }
